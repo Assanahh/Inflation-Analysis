@@ -50,3 +50,16 @@ At 16.98%, Food (& Non Alcoholic Bev.) inflation is the biggest contributor to A
 
 **Recommendation**
 To help steer the Nigerian economy in the right direction, the following outlines recommendations based on my analysis of inflation trends in the country:
+
+**•	Controlling Food Inflation Through Agricultural Reforms:**
+Increase investment in local food production to reduce dependency on imported food, which significantly contributes to inflation. However, in the short term, importing affordable food items from neighboring countries should be considered as a temporary measure to stabilize prices while gradually building the capacity for self-sufficiency in food production.
+
+**•	Strengthening Monetary Policies to Stabilize Inflation:**
+The Central Bank of Nigeria (CBN) should set interest rates at a level that helps keep inflation in check without slowing down economic growth. Adopting a balanced approach would ensure inflation is controlled while still allowing businesses and individuals to access credit for productive activities that drive economic growth.
+
+**•	Increase The Minimum Wage Which Will Help Improve Purchasing Power:**
+With wages staying the same while inflation rises, the real value of income declines, making it harder for people to afford goods and services. To keep up with rising inflation, government and policymakers should introduce measures that adjust wages to ensure people's purchasing power remains stable.
+
+**•	Reducing Government Spending:**
+Nigeria recorded a budget deficit over N15 trillion which implies we’re not earning enough to support our spending. The government should cut unnecessary spending to help control inflation. Reducing wasteful expenses and finding ways to increase revenue can help reduce inflation and support the economy. 
+
