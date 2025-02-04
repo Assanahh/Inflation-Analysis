@@ -12,8 +12,9 @@ One key macroeconomic indicator that has far-reaching ripple effects and affects
  ***NB: Before you dive into the analysis piece by piece, please take a moment to read this refresher on CPI. This aims to provide essential context, especially for those without an economics background***
 
 
-_The Consumer Price Index: All Items (Headline Index) is a price index of a basket of goods and services paid by consumers. Percent changes in the price index measure the inflation rate between any two time periods_
-_
+_**The Consumer Price Index**: All Items (Headline Index) is a price index of a basket of goods and services paid by consumers. Percent changes in the price index measure the inflation rate between any two time periods_
+
+
 _The CPIs are based on prices for food, clothing, shelter, and fuels, transportation fares, health, education, communication etc. The index measures price changes (as a percentage change) from a predetermined reference date. It measures the average change in prices of goods and services over time. It is commonly used to track inflation and understand how the cost of living changes. A rising CPI means that prices are increasing, reducing the purchasing power of money._
 
 
