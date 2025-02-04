@@ -49,6 +49,7 @@ Communication	                                                 0.22
 At 16.98%, Food (& Non Alcoholic Bev.) inflation is the biggest contributor to All item index, also known as headline inflation. The rise in headline inflation on a year-on-year basis was largely caused by increases in the prices of food items.
 
 **Recommendation**
+
 To help steer the Nigerian economy in the right direction, the following outlines recommendations based on my analysis of inflation trends in the country:
 
 **•	Controlling Food Inflation Through Agricultural Reforms:**
