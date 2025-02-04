@@ -8,12 +8,14 @@ Analyzing the impacts of inflation on the Nigerian economy: A data-driven approa
 One key macroeconomic indicator that has far-reaching ripple effects and affects the everyday life of Nigerians is inflation. Over the past decade, Nigeria has experienced an exponential rise in inflation, pushing more than half of its population below the poverty line. This report examines the causes of inflation and its impact on people and the economy. Using historical data, I analyzed inflation’s relationship with key indicators such as monetary policy, exchange rates, unemployment rates, and the prices of goods. Leveraging Power BI’s powerful visualizations, I explored trends and components of these variables. The goal of this analysis is to identify different types of inflation, highlight inflationary trends over the past decade, and examine how different economic factors contribute to fluctuations in inflation.
 
 
+
  ***NB: Before you dive into the analysis piece by piece, please take a moment to read this refresher on CPI. This aims to provide essential context, especially for those without an economics background.****
 
 
 _The Consumer Price Index: All Items (Headline Index) is a price index of a basket of goods and services paid by consumers. Percent changes in the price index measure the inflation rate between any two time periods_
 _
 _The CPIs are based on prices for food, clothing, shelter, and fuels, transportation fares, health, education, communication etc. The index measures price changes (as a percentage change) from a predetermined reference date. It measures the average change in prices of goods and services over time. It is commonly used to track inflation and understand how the cost of living changes. A rising CPI means that prices are increasing, reducing the purchasing power of money._
+
 
 
 **Food Inflation vs Headline Inflation**:
