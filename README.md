@@ -42,21 +42,20 @@ The MPR is the official interest rate of the CBN, which anchors all other intere
 **Contribution of Consumer Price Index (CPI) Items to Headline Index(inflation)**:
 
 The contributions of items in the CPI Basket to the increase in the headline index are presented below: 
-            
-CPI Category	                                              Contribution YoY%
-Food & Non Alcoholic Bev.	                                    16.98
-Housing Water, Electricity. Gas and Other Fuel	               5.48
-Imported Food	                                                 4.35
-Clothing and Footwear	                                         2.51
-Transport	                                                     2.13
-Furnishings & Household Equipment Maintenance	                 1.65
-Education	                                                     1.29
-Health                                                         0.98
-Miscellaneous Goods & Services	                               0.55
-Restaurant & Hotels	                                           0.4
-Alcoholic Beverage. Tobacco and Kola	                         0.36
-Recreation & Culture  	                                       0.23
-Communication	                                                 0.22
+                                                      
+Food & Non Alcoholic Bev.	  =                                 16.98,
+Housing Water, Electricity. Gas and Other Fuel	  =             5.48,
+Imported Food	    =                                            4.35,
+Clothing and Footwear	  =                                      2.51,
+Transport	        =                                            2.13,
+Furnishings & Household Equipment Maintenance	 =               1.65,
+Education	                                   =                  1.29,
+Health                                       =                  0.98,
+Miscellaneous Goods & Services	               =                0.55,
+Restaurant & Hotels	                          =                 0.4,
+Alcoholic Beverage. Tobacco and Kola	          =               0.36,
+Recreation & Culture  	                         =              0.23,
+Communication	                                  =               0.22
 
 At 16.98%, Food (& Non Alcoholic Bev.) inflation is the biggest contributor to All item index, also known as headline inflation. The rise in headline inflation on a year-on-year basis was largely caused by increases in the prices of food items.
 
