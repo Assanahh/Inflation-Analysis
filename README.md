@@ -32,7 +32,7 @@ Alcoholic Beverage. Tobacco and Kola	                         0.36
 Recreation & Culture  	                                       0.23
 Communication	                                                 0.22
 
-Food (& Non Alcoholic Bev.) inflation is the biggest contributor to All item index, also known as headline inflation. The rise in headline inflation on a year-on-year basis was largely caused by increases in the prices of food items.
+At 16.98%, Food (& Non Alcoholic Bev.) inflation is the biggest contributor to All item index, also known as headline inflation. The rise in headline inflation on a year-on-year basis was largely caused by increases in the prices of food items.
 
 **Recommendation**
 
