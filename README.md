@@ -7,9 +7,16 @@ Analyzing the impacts of inflation on the Nigerian economy: A data-driven approa
  
 One key macroeconomic indicator that has far-reaching ripple effects and affects the everyday life of Nigerians is inflation. Over the past decade, Nigeria has experienced an exponential rise in inflation, pushing more than half of its population below the poverty line. This report examines the causes of inflation and its impact on people and the economy. Using historical data, I analyzed inflation’s relationship with key indicators such as monetary policy, exchange rates, unemployment rates, and the prices of goods. Leveraging Power BI’s powerful visualizations, I explored trends and components of these variables. The goal of this analysis is to identify different types of inflation, highlight inflationary trends over the past decade, and examine how different economic factors contribute to fluctuations in inflation.
 
+**NB: Before you dive into the analysis piece by piece, please take a moment to read this refresher on CPI. This aims to provide essential context, especially for those without an economics background.
+**_
+_The Consumer Price Index: All Items (Headline Index) is a price index of a basket of goods and services paid by consumers. Percent changes in the price index measure the inflation rate between any two time periods_
+_
+_The CPIs are based on prices for food, clothing, shelter, and fuels, transportation fares, health, education, communication etc. The index measures price changes (as a percentage change) from a predetermined reference date. It measures the average change in prices of goods and services over time. It is commonly used to track inflation and understand how the cost of living changes. A rising CPI means that prices are increasing, reducing the purchasing power of money._
+
+
 **Food Inflation vs Headline Inflation**:
 
-On a year-on-year basis in 2010, Food inflation rate stood at 14.77% relative to Headline inflation rate of the same year at 13.88%. Looking at the movement, food inflation showed a slight increase of 0.89% compared to the headline inflation. Meanwhile, in 2024, Food and Headline Inflation jumped to significant leap of 38.91% and 32.8% respectively. The rise represents an unprecedented level of inflation in both categories, showing an all-time high rate recorded in the history of the country.
+On a year-on-year basis in 2010, Food inflation rate stood at 14.77% relative to Headline inflation rate of the same year at 13.88%. Looking at the movement, food inflation showed a slight increase of 0.89% compared to the headline inflation. Meanwhile, in 2024, Food and Headline Inflation jumped to a significant leap of 38.91% and 32.8% respectively. The rise represents an unprecedented level of inflation in both categories, showing an all-time high rate recorded in the history of the country.
 
 **Monthly and Annual Inflation Trends**: 
 
