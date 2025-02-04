@@ -9,7 +9,7 @@ One key macroeconomic indicator that has far-reaching ripple effects and affects
 
 
 
- ***NB: Before you dive into the analysis piece by piece, please take a moment to read this refresher on CPI. This aims to provide essential context, especially for those without an economics background.****
+ ***NB: Before you dive into the analysis piece by piece, please take a moment to read this refresher on CPI. This aims to provide essential context, especially for those without an economics background***
 
 
 _The Consumer Price Index: All Items (Headline Index) is a price index of a basket of goods and services paid by consumers. Percent changes in the price index measure the inflation rate between any two time periods_
