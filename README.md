@@ -41,11 +41,10 @@ The MPR is the official interest rate of the CBN, which anchors all other intere
 
 # Contribution of Consumer Price Index (CPI) Items to Headline Index(inflation):
 
-The contributions of items in the CPI Basket to the increase in the headline index are presented below: 
+The contributions of items in the CPI Basket to the increase in the headline index in 2024 are presented below: 
                                                       
 Food & Non Alcoholic Bev.	  =                                 16.98,
 Housing Water, Electricity. Gas and Other Fuel	  =             5.48,
-Imported Food	    =                                            4.35,
 Clothing and Footwear	  =                                      2.51,
 Transport	        =                                            2.13,
 Furnishings & Household Equipment Maintenance	 =               1.65,
