@@ -44,6 +44,7 @@ The USD to NGN exchange rate surged to an alarming average of ₦1,477 in 2024, 
 The MPR is the official interest rate of the CBN, which anchors all other interest rates in the money market and the economy. When the CBN adjusts interest rates, it influences the exchange rate, which in turn indirectly impacts the general price level of goods and services. On a year-on-year basis, Inflation rate tends to increase or decrease gradually following shifts in interest rates. From 2018 to 2019, interest rate fell by 2.9% where a drop of 5.7% was recorded for inflation between both years. Interest rate made a big leap in 2024, reaching an all-time high of 24.39%. As a result, inflation followed sharply, climbing to 32.8%.
 
 # Contribution of Consumer Price Index (CPI) Items to Headline Index(inflation):
+#   ![](CPI-Contribution.png)
 
 The contributions of items in the CPI Basket to the increase in the headline index in 2024 are presented below: 
                                                       
