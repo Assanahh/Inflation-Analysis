@@ -36,7 +36,7 @@ A strong negative correlation exists between inflation and purchasing power. Usi
 
 The USD to NGN exchange rate surged to an alarming average of ₦1,477 in 2024, up from ₦148.8 in 2010.  As Naira depreciates sharply against the strong Dollar, inflation rate skyrocketed, growing over twofold. Our analysis reveals a sharp deterioration in the Naira’s value, indicating a positive correlation between inflation and exchange rates. Notably, in November 2009 (our base period), the CPI was 100, whereas by 2024, inflation had risen by 32.8%, bringing the average CPI to 696. Over ten years, the price level became more than six times higher than in 2009.
 
-![](CBN-Interest-Rate-vs-Inflation.png)
+# ![](CBN-Interest-Rate-vs-Inflation.png)
 
 # CBN Monetary Policy Rate and Inflation Rate:
 
