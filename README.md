@@ -35,6 +35,7 @@ Headline Inflation rate on a Month-on-Month and Year-on-Year basis move together
 A strong negative correlation exists between inflation and purchasing power. Using November 2009’s CPI of 100 as the base period for comparison, our analysis reveals a steep decline in the purchasing power of Naira. As inflation rate grows increasingly, purchasing power falls dramatically. In reference to November 2009, with a CPI of 100, the purchasing power of Naira declined to just 14% by 2024. This implies that an item that cost N100 in 2009 would now cost approximately N714 in 2024, meaning the same amount of money buys significantly less today. This indicates that inflation has significantly eroded the value of our money.
 
 # Exchange Rate and Headline Inflation Rate: 
+# ![](Exchange-Rate-vs-Inflation.png)
 
 The USD to NGN exchange rate surged to an alarming average of ₦1,477 in 2024, up from ₦148.8 in 2010.  As Naira depreciates sharply against the strong Dollar, inflation rate skyrocketed, growing over twofold. Our analysis reveals a sharp deterioration in the Naira’s value, indicating a positive correlation between inflation and exchange rates. Notably, in November 2009 (our base period), the CPI was 100, whereas by 2024, inflation had risen by 32.8%, bringing the average CPI to 696. Over ten years, the price level became more than six times higher than in 2009.
 
