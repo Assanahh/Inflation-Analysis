@@ -19,7 +19,7 @@ _The CPIs are based on prices for food, clothing, shelter, and fuels, transporta
 
 
 
-**Food Inflation vs Headline Inflation**:
+# Food Inflation vs Headline Inflation:
 
 On a year-on-year basis in 2010, Food inflation rate stood at 14.77% relative to Headline inflation rate of the same year at 13.88%. Looking at the movement, food inflation showed a slight increase of 0.89% compared to the headline inflation. Meanwhile, in 2024, Food and Headline Inflation jumped to a significant leap of 38.91% and 32.8% respectively. The rise represents an unprecedented level of inflation in both categories, showing an all-time high rate recorded in the history of the country.
 
