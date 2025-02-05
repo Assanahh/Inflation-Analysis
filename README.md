@@ -27,6 +27,7 @@ On a year-on-year basis in 2010, Food inflation rate stood at 14.77% relative to
 
 Headline Inflation rate on a Month-on-Month and Year-on-Year basis move together rapidly, indicating a steeper upward trend on the graph. On both occasions, inflation surged more than twice their previous levels in the span of ten years (2010 - 2024).
 
+![](Purchasing Power vs Inflation.png)
 # Headline Inflation Rate and Purchasing Power: 
 
 A strong negative correlation exists between inflation and purchasing power. Using November 2009’s CPI of 100 as the base period for comparison, our analysis reveals a steep decline in the purchasing power of Naira. As inflation rate grows increasingly, purchasing power falls dramatically. In reference to November 2009, with a CPI of 100, the purchasing power of Naira declined to just 14% by 2024. This implies that an item that cost N100 in 2009 would now cost approximately N714 in 2024, meaning the same amount of money buys significantly less today. This indicates that inflation has significantly eroded the value of our money.
