@@ -15,7 +15,7 @@ One key macroeconomic indicator that has far-reaching ripple effects and affects
 _**The Consumer Price Index**: All Items (Headline Index) is a price index of a basket of goods and services paid by consumers. Percent changes in the price index measure the inflation rate between any two time periods_
 
 
-_The CPIs are based on prices for food, clothing, shelter, and fuels, transportation fares, health, education, communication etc. The index measures price changes (as a percentage change) from a predetermined reference date. It measures the average change in prices of goods and services over time. It is commonly used to track inflation and understand how the cost of living changes. A rising CPI means that prices are increasing, reducing the purchasing power of money._
+_The CPIs are based on prices for food, clothing, shelter, and fuels, transportation fares, health, education, communication etc. The index measures price changes (as a percentage change) from a predetermined reference date. It measures the average change in prices of goods and services consumed by people over time. It is commonly used to track inflation and understand how the cost of living changes. A rising CPI means that prices are increasing, reducing the purchasing power of money._
 
 
 
@@ -29,15 +29,15 @@ Headline Inflation rate on a Month-on-Month and Year-on-Year basis move together
 
 # Headline Inflation Rate and Purchasing Power: 
 
-A strong negative correlation exists between inflation and purchasing power. Using 2009’s CPI of 100 as the base period for comparison, our analysis reveals a steep decline in the purchasing power of Naira. As inflation rate grows increasingly, purchasing power falls dramatically. In reference to 2009, with a CPI of 100, the purchasing power of Naira declined to just 14% by 2024. This implies that an item that cost N100 in 2009 would now cost approximately N714 in 2024, meaning the same amount of money buys significantly less today. This indicates that inflation has significantly eroded the value of our money.
+A strong negative correlation exists between inflation and purchasing power. Using November 2009’s CPI of 100 as the base period for comparison, our analysis reveals a steep decline in the purchasing power of Naira. As inflation rate grows increasingly, purchasing power falls dramatically. In reference to November 2009, with a CPI of 100, the purchasing power of Naira declined to just 14% by 2024. This implies that an item that cost N100 in 2009 would now cost approximately N714 in 2024, meaning the same amount of money buys significantly less today. This indicates that inflation has significantly eroded the value of our money.
 
 # Exchange Rate and Headline Inflation Rate: 
 
-The USD to NGN exchange rate surged to an alarming average of ₦1,477 in 2024, up from ₦148.8 in 2010.  As Naira depreciates sharply against the strong Dollar, inflation rate skyrocketed, growing over twofold. Our analysis reveals a sharp deterioration in the Naira’s value, indicating a positive correlation between inflation and exchange rates. Notably, in 2009 (our base period), the CPI was 100, whereas by 2024, inflation had risen by 32.8%, bringing the average CPI to 696. Over ten years, the price level became more than six times higher than in 2009.
+The USD to NGN exchange rate surged to an alarming average of ₦1,477 in 2024, up from ₦148.8 in 2010.  As Naira depreciates sharply against the strong Dollar, inflation rate skyrocketed, growing over twofold. Our analysis reveals a sharp deterioration in the Naira’s value, indicating a positive correlation between inflation and exchange rates. Notably, in November 2009 (our base period), the CPI was 100, whereas by 2024, inflation had risen by 32.8%, bringing the average CPI to 696. Over ten years, the price level became more than six times higher than in 2009.
 
 # CBN Monetary Policy Rate and Inflation Rate:
 
-The MPR is the official interest rate of the CBN, which anchors all other interest rates in the money market and the economy. When the CBN adjusts interest rates, it influences the exchange rate, which in turn indirectly impacts the general price level of goods and services. On a year-on-year basis, Inflation rate tends to increase or decrease gradually following shifts in interest rates. From 2018 to 2019, interest rate fell by 2.9% where a drop of 5.7% was recorded for inflation between both years. Interest rate made a big leap in 2024, reaching an all-time high rate of 24.39. As a result, inflation followed sharply, climbing to 32.8%.
+The MPR is the official interest rate of the CBN, which anchors all other interest rates in the money market and the economy. When the CBN adjusts interest rates, it influences the exchange rate, which in turn indirectly impacts the general price level of goods and services. On a year-on-year basis, Inflation rate tends to increase or decrease gradually following shifts in interest rates. From 2018 to 2019, interest rate fell by 2.9% where a drop of 5.7% was recorded for inflation between both years. Interest rate made a big leap in 2024, reaching an all-time high of 24.39%. As a result, inflation followed sharply, climbing to 32.8%.
 
 # Contribution of Consumer Price Index (CPI) Items to Headline Index(inflation):
 
