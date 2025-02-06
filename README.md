@@ -22,7 +22,7 @@ _The CPIs are based on prices for food, clothing, shelter, and fuels, transporta
 # Food Inflation vs Headline Inflation:
 # ![](MoM-vs-YoY-Inflation-Trends.png)
 
-On a year-on-year basis in 2010, Food inflation rate stood at 14.77% relative to Headline inflation rate of the same year at 13.88%. Looking at the movement, food inflation showed a slight increase of 0.89% compared to the headline inflation. Meanwhile, in 2024, Food and Headline Inflation jumped to a significant leap of 38.91% and 32.8% respectively. The rise represents an unprecedented level of inflation in both categories, showing an all-time high rate recorded in the history of the country.
+On a year-on-year basis in 2010, Food inflation rate stood at 14.77% relative to Headline inflation rate of the same year at 13.88%. Looking at the movement, food inflation showed a slight increase of 0.89% compared to the headline inflation. Meanwhile, in 2024, Food and Headline Inflation jumped to a significant leap of 39.53% and 33.40% respectively. The rise represents an unprecedented level of inflation in both categories, showing an all-time high rate recorded in the history of the country.
 
 # Monthly and Annual Inflation Trends: 
 # ![](MoM-vs-YoY-Inflation-Trends.png)
@@ -49,22 +49,22 @@ The MPR is the official interest rate of the CBN, which anchors all other intere
 # Contribution of Consumer Price Index (CPI) Items to Headline Index(inflation):
 #   ![](CPI-Contribution.png)
 
-The contributions of items in the CPI Basket to the increase in the headline index in 2024 are presented below: 
+The contributions of items in the CPI Basket to the increase in the headline index in July 2024 are presented below: 
                                                       
-Food & Non Alcoholic Bev.	  =                                 16.98,
-Housing Water, Electricity. Gas and Other Fuel	  =             5.48,
-Clothing and Footwear	  =                                      2.51,
-Transport	        =                                            2.13,
-Furnishings & Household Equipment Maintenance	 =               1.65,
-Education	                                   =                  1.29,
-Health                                       =                  0.98,
-Miscellaneous Goods & Services	               =                0.55,
-Restaurant & Hotels	                          =                 0.4,
-Alcoholic Beverage. Tobacco and Kola	          =               0.36,
-Recreation & Culture  	                         =              0.23,
-Communication	                                  =               0.22
+Food & Non Alcoholic Bev.	  =                                 17.3,
+Housing Water, Electricity. Gas and Other Fuel	  =            5.59,
+Clothing and Footwear	  =                                     2.55,
+Transport	        =                                           2.17,
+Furnishings & Household Equipment Maintenance	 =              1.68,
+Education	                                   =                1.32,
+Health                                       =                1,
+Miscellaneous Goods & Services	               =               0.56,
+Restaurant & Hotels	                          =               0.4,
+Alcoholic Beverage. Tobacco and Kola	          =              0.36,
+Recreation & Culture  	                         =             0.23,
+Communication	                                  =             0.23
 
-**At 16.98%, Food (& Non Alcoholic Bev.) inflation** is the biggest contributor to All item index, also known as headline inflation. The rise in headline inflation on a year-on-year basis was largely caused by increases in the prices of food items.
+**At 17.3%, Food (& Non Alcoholic Bev.) inflation** is the biggest contributor to All item index, also known as headline inflation. The rise in headline inflation on a year-on-year basis was largely caused by increases in the prices of food items.
 
 
 # Recommendations
