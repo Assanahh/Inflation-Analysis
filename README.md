@@ -32,7 +32,7 @@ Headline Inflation rate on a Month-on-Month and Year-on-Year basis move together
 # Headline Inflation Rate and Purchasing Power: 
 # ![](Purchasing_power_and_Inflation_(2).png)
 
-A strong negative correlation exists between inflation and purchasing power. Using November 2009’s CPI of 100 as the base period for comparison, our analysis reveals a steep decline in the purchasing power of Naira. As inflation rate grows increasingly, purchasing power falls dramatically. In reference to November 2009, with a CPI of 100, the purchasing power of Naira declined to just 14% by 2024. This implies that an item that cost N100 in 2009 would now cost approximately N714 in 2024, meaning the same amount of money buys significantly less today. This indicates that inflation has significantly eroded the value of our money.
+A strong negative correlation exists between inflation and purchasing power. Using November 2009’s CPI of 100 as the base period for comparison, our analysis reveals a steep decline in the purchasing power of Naira. As inflation rate soars, purchasing power falls drastically. In reference to November 2009, with a CPI of 100, the purchasing power of Naira declined to just 14% by 2024. This implies that an item that cost N100 in 2009 would now cost approximately N714 in 2024, meaning the same amount of money buys significantly less today. This indicates that inflation has significantly eroded the value of our money.
 
 # Exchange Rate and Headline Inflation Rate: 
 # ![](Exchange-Rate-vs-Inflation.png)
